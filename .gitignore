@@ -172,3 +172,7 @@ cython_debug/
 
 #virtual environement
 venv
+
+#database
+*.sqlite
+*.sqlite-journal
