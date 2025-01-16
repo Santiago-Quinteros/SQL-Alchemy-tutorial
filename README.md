@@ -1,2 +1,2 @@
 # SQL-Alchemy-tutorial
-Revising SQL Alchemy and Github
+Revising SQL Alchemy and Github. Merge error.
